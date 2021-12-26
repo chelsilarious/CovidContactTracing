@@ -1,9 +1,9 @@
 # Risk score learning for COVID-19 contact tracing apps
 
 ## Group Members:
-Zixi Chen: zixichen@g.harvard.edu
-Marcel Torne Villasevil: marcel_tornevillasevil@g.harvard.edu
-Zihe Zhang: zihe_zhang@g.harvard.edu
+Zixi Chen: zixichen@g.harvard.edu  
+Marcel Torne Villasevil: marcel_tornevillasevil@g.harvard.edu  
+Zihe Zhang: zihe_zhang@g.harvard.edu  
 
 ## Introduction:
 
