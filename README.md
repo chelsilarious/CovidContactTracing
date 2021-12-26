@@ -1,11 +1,11 @@
 # Risk score learning for COVID-19 contact tracing apps
 
-## Group Members:
+## Group Members
 Zixi Chen: zixichen@g.harvard.edu  
 Marcel Torne Villasevil: marcel_tornevillasevil@g.harvard.edu  
 Zihe Zhang: zihe_zhang@g.harvard.edu  
 
-## Introduction:
+## Introduction
 
 This project is based on the [Risk score learning for COVID-19 contact tracing apps (2021)](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/60fb3ae8379556598ce0aab4/1627077353303/mlhc_risk_score_learn_camera.pdf) paper by Murphy et.al
 
